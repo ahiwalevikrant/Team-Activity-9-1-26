@@ -176,7 +176,7 @@ Rules:
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-gray-800 mb-2">
-            AI Crossword Puzzle Generator
+             VDSA Crossword Puzzle
           </h1>
           <p className="text-gray-600">
             Transform team data into an interlocking crossword puzzle
